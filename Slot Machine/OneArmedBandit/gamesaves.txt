@@ -1,0 +1,928 @@
+Game : 1
+The First Column : 6
+The Second Column : 8
+The Thrird Column : 5
+
+Game : 2
+The First Column : 9
+The Second Column : 7
+The Thrird Column : 2
+
+Game : 3
+The First Column : 3
+The Second Column : 5
+The Thrird Column : 1
+£1 was awarded for a special shapes appearing
+
+Game : 4
+The First Column : 1
+The Second Column : 9
+The Thrird Column : 6
+£1 was awarded for a special shapes appearing
+
+Game : 5
+The First Column : 8
+The Second Column : 2
+The Thrird Column : 8
+£1 was awarded for two shapes matching
+
+Game : 6
+The First Column : 8
+The Second Column : 10
+The Thrird Column : 2
+
+Game : 7
+The First Column : 1
+The Second Column : 9
+The Thrird Column : 2
+£1 was awarded for a special shapes appearing
+
+Game : 8
+The First Column : 5
+The Second Column : 5
+The Thrird Column : 8
+£1 was awarded for two shapes matching
+
+Game : 9
+The First Column : 1
+The Second Column : 4
+The Thrird Column : 3
+£1 was awarded for a special shapes appearing
+
+Game : 10
+The First Column : 1
+The Second Column : 4
+The Thrird Column : 7
+£1 was awarded for a special shapes appearing
+
+Game : 11
+The First Column : 10
+The Second Column : 9
+The Thrird Column : 7
+
+Game : 12
+The First Column : 4
+The Second Column : 9
+The Thrird Column : 4
+£1 was awarded for two shapes matching
+
+Game : 13
+The First Column : 8
+The Second Column : 3
+The Thrird Column : 1
+£1 was awarded for a special shapes appearing
+
+Game : 14
+The First Column : 8
+The Second Column : 2
+The Thrird Column : 6
+
+Game : 15
+The First Column : 4
+The Second Column : 4
+The Thrird Column : 8
+£1 was awarded for two shapes matching
+
+Game : 16
+The First Column : 6
+The Second Column : 3
+The Thrird Column : 1
+£1 was awarded for a special shape appearing
+
+Game : 17
+The First Column : 6
+The Second Column : 4
+The Thrird Column : 4
+£1 was awarded for two shapes matching
+
+Game : 18
+The First Column : 6
+The Second Column : 1
+The Thrird Column : 1
+£1 was awarded for two shapes matching
+£1 was awarded for a special shape appearing
+£1 was awarded for a special shape appearing
+
+Game : 19
+The First Column : 8
+The Second Column : 8
+The Thrird Column : 5
+£1 was awarded for two shapes matching
+
+Game : 20
+The First Column : 5
+The Second Column : 5
+The Thrird Column : 2
+£1 was awarded for two shapes matching
+
+Game : 21
+The First Column : 4
+The Second Column : 4
+The Thrird Column : 7
+£1 was awarded for two shapes matching
+
+Game : 22
+The First Column : 6
+The Second Column : 1
+The Thrird Column : 9
+£1 was awarded for a special shape appearing
+
+Game : 23
+The First Column : 1
+The Second Column : 5
+The Thrird Column : 5
+£1 was awarded for two shapes matching
+£1 was awarded for a special shape appearing
+
+Game : 24
+The First Column : 3
+The Second Column : 6
+The Thrird Column : 3
+£1 was awarded for two shapes matching
+
+Game : 25
+The First Column : 8
+The Second Column : 1
+The Thrird Column : 8
+£1 was awarded for two shapes matching
+£1 was awarded for a special shape appearing
+
+Game : 26
+The First Column : 5
+The Second Column : 1
+The Thrird Column : 1
+£1 was awarded for two shapes matching
+£1 was awarded for a special shape appearing
+£1 was awarded for a special shape appearing
+
+Game : 27
+The First Column : 2
+The Second Column : 2
+The Thrird Column : 8
+£1 was awarded for two shapes matching
+
+Game : 28
+The First Column : 8
+The Second Column : 4
+The Thrird Column : 8
+£1 was awarded for two shapes matching
+
+Game : 29
+The First Column : 4
+The Second Column : 7
+The Thrird Column : 4
+£1 was awarded for two shapes matching
+
+Game : 30
+The First Column : 4
+The Second Column : 4
+The Thrird Column : 8
+£1 was awarded for two shapes matching
+
+Game : 31
+The First Column : 5
+The Second Column : 7
+The Thrird Column : 9
+
+Game : 32
+The First Column : 1
+The Second Column : 9
+The Thrird Column : 7
+£1 was awarded for a special shape appearing
+
+Game : 33
+The First Column : 8
+The Second Column : 2
+The Thrird Column : 5
+
+Game : 34
+The First Column : 5
+The Second Column : 9
+The Thrird Column : 7
+
+Game : 35
+The First Column : 5
+The Second Column : 1
+The Thrird Column : 1
+£1 was awarded for two shapes matching
+£1 was awarded for a special shape appearing
+£1 was awarded for a special shape appearing
+
+Game : 36
+The First Column : 4
+The Second Column : 1
+The Thrird Column : 1
+£1 was awarded for two shapes matching
+£1 was awarded for a special shape appearing
+£1 was awarded for a special shape appearing
+
+Game : 37
+The First Column : 4
+The Second Column : 1
+The Thrird Column : 6
+£1 was awarded for a special shape appearing
+
+Game : 38
+The First Column : 7
+The Second Column : 1
+The Thrird Column : 3
+£1 was awarded for a special shape appearing
+
+Game : 39
+The First Column : 8
+The Second Column : 1
+The Thrird Column : 8
+£1 was awarded for two shapes matching
+£1 was awarded for a special shape appearing
+
+Game : 40
+The First Column : 2
+The Second Column : 9
+The Thrird Column : 4
+
+Game : 41
+The First Column : 8
+The Second Column : 5
+The Thrird Column : 1
+£1 was awarded for a special shape appearing
+
+Game : 42
+The First Column : 8
+The Second Column : 9
+The Thrird Column : 1
+£1 was awarded for a special shape appearing
+
+Game : 43
+The First Column : 1
+The Second Column : 7
+The Thrird Column : 1
+£1 was awarded for two shapes matching
+£1 was awarded for a special shape appearing
+£1 was awarded for a special shape appearing
+
+Game : 44
+The First Column : 8
+The Second Column : 2
+The Thrird Column : 3
+
+Game : 45
+The First Column : 6
+The Second Column : 6
+The Thrird Column : 7
+£1 was awarded for two shapes matching
+
+Game : 46
+The First Column : 6
+The Second Column : 9
+The Thrird Column : 1
+£1 was awarded for a special shape appearing
+
+Game : 44
+The First Column : 10
+The Second Column : 3
+The Thrird Column : 1
+£1 was awarded for a special shape appearing
+
+Game : 45
+The First Column : 9
+The Second Column : 3
+The Thrird Column : 6
+
+Game : 46
+The First Column : 1
+The Second Column : 1
+The Thrird Column : 7
+£1 was awarded for two shapes matching
+£1 was awarded for a special shape appearing
+£1 was awarded for a special shape appearing
+
+Game : 47
+The First Column : 3
+The Second Column : 3
+The Thrird Column : 3
+£2 was awarded for three shapes matching
+£1 was awarded for two shapes matching
+
+Game : 48
+The First Column : 1
+The Second Column : 4
+The Thrird Column : 1
+£1 was awarded for two shapes matching
+£1 was awarded for a special shape appearing
+£1 was awarded for a special shape appearing
+
+Game : 49
+The First Column : 8
+The Second Column : 2
+The Thrird Column : 8
+£1 was awarded for two shapes matching
+
+Game : 50
+The First Column : 4
+The Second Column : 8
+The Thrird Column : 4
+£1 was awarded for two shapes matching
+
+Game : 51
+The First Column : 2
+The Second Column : 6
+The Thrird Column : 5
+
+Game : 52
+The First Column : 1
+The Second Column : 2
+The Thrird Column : 3
+£1 was awarded for a special shape appearing
+
+Game : 53
+The First Column : 9
+The Second Column : 3
+The Thrird Column : 3
+£1 was awarded for two shapes matching
+
+Game : 54
+The First Column : 1
+The Second Column : 3
+The Thrird Column : 5
+£1 was awarded for a special shape appearing
+
+Game : 55
+The First Column : 4
+The Second Column : 8
+The Thrird Column : 3
+
+Game : 56
+The First Column : 2
+The Second Column : 7
+The Thrird Column : 1
+£1 was awarded for a special shape appearing
+
+Game : 57
+The First Column : 9
+The Second Column : 5
+The Thrird Column : 3
+
+Game : 58
+The First Column : 6
+The Second Column : 6
+The Thrird Column : 6
+£2 was awarded for three shapes matching
+£1 was awarded for two shapes matching
+
+Game : 59
+The First Column : 1
+The Second Column : 5
+The Thrird Column : 9
+£1 was awarded for a special shape appearing
+
+Game : 60
+The First Column : 8
+The Second Column : 2
+The Thrird Column : 1
+£1 was awarded for a special shape appearing
+
+Game : 61
+The First Column : 6
+The Second Column : 6
+The Thrird Column : 5
+£1 was awarded for two shapes matching
+
+Game : 62
+The First Column : 3
+The Second Column : 1
+The Thrird Column : 5
+£1 was awarded for a special shape appearing
+
+Game : 63
+The First Column : 3
+The Second Column : 7
+The Thrird Column : 9
+
+Game : 64
+The First Column : 1
+The Second Column : 7
+The Thrird Column : 3
+£1 was awarded for a special shape appearing
+
+Game : 65
+The First Column : 6
+The Second Column : 3
+The Thrird Column : 3
+£1 was awarded for two shapes matching
+
+Game : 66
+The First Column : 1
+The Second Column : 4
+The Thrird Column : 1
+£1 was awarded for two shapes matching
+£1 was awarded for a special shape appearing
+£1 was awarded for a special shape appearing
+
+Game : 67
+The First Column : 9
+The Second Column : 7
+The Thrird Column : 2
+
+Game : 68
+The First Column : 9
+The Second Column : 9
+The Thrird Column : 6
+£1 was awarded for two shapes matching
+
+Game : 69
+The First Column : 4
+The Second Column : 9
+The Thrird Column : 6
+
+Game : 70
+The First Column : 1
+The Second Column : 8
+The Thrird Column : 2
+£1 was awarded for a special shape appearing
+
+Game : 71
+The First Column : 1
+The Second Column : 2
+The Thrird Column : 9
+£1 was awarded for a special shape appearing
+
+Game : 72
+The First Column : 3
+The Second Column : 7
+The Thrird Column : 9
+
+Game : 73
+The First Column : 8
+The Second Column : 8
+The Thrird Column : 2
+£1 was awarded for two shapes matching
+
+Game : 74
+The First Column : 10
+The Second Column : 10
+The Thrird Column : 5
+£1 was awarded for two shapes matching
+
+Game : 75
+The First Column : 4
+The Second Column : 2
+The Thrird Column : 2
+£1 was awarded for two shapes matching
+
+Game : 76
+The First Column : 6
+The Second Column : 1
+The Thrird Column : 9
+£1 was awarded for a special shape appearing
+
+Game : 77
+The First Column : 9
+The Second Column : 9
+The Thrird Column : 10
+£1 was awarded for two shapes matching
+
+Game : 78
+The First Column : 8
+The Second Column : 7
+The Thrird Column : 1
+£1 was awarded for a special shape appearing
+
+Game : 79
+The First Column : 6
+The Second Column : 1
+The Thrird Column : 9
+£1 was awarded for a special shape appearing
+
+Game : 80
+The First Column : 3
+The Second Column : 1
+The Thrird Column : 5
+£1 was awarded for a special shape appearing
+
+Game : 81
+The First Column : 7
+The Second Column : 1
+The Thrird Column : 5
+£1 was awarded for a special shape appearing
+
+Game : 82
+The First Column : 5
+The Second Column : 2
+The Thrird Column : 1
+£1 was awarded for a special shape appearing
+
+Game : 83
+The First Column : 9
+The Second Column : 9
+The Thrird Column : 2
+£1 was awarded for two shapes matching
+
+Game : 84
+The First Column : 8
+The Second Column : 8
+The Thrird Column : 4
+£1 was awarded for two shapes matching
+
+Game : 85
+The First Column : 5
+The Second Column : 3
+The Thrird Column : 3
+£1 was awarded for two shapes matching
+
+Game : 86
+The First Column : 3
+The Second Column : 3
+The Thrird Column : 1
+£1 was awarded for two shapes matching
+£1 was awarded for a special shape appearing
+
+Game : 87
+The First Column : 5
+The Second Column : 1
+The Thrird Column : 9
+£1 was awarded for a special shape appearing
+
+Game : 88
+The First Column : 4
+The Second Column : 6
+The Thrird Column : 8
+
+Game : 89
+The First Column : 1
+The Second Column : 1
+The Thrird Column : 2
+£1 was awarded for two shapes matching
+£1 was awarded for a special shape appearing
+£1 was awarded for a special shape appearing
+
+Game : 90
+The First Column : 8
+The Second Column : 1
+The Thrird Column : 6
+£1 was awarded for a special shape appearing
+
+Game : 91
+The First Column : 2
+The Second Column : 5
+The Thrird Column : 8
+
+Game : 92
+The First Column : 2
+The Second Column : 1
+The Thrird Column : 6
+£1 was awarded for a special shape appearing
+
+Game : 93
+The First Column : 1
+The Second Column : 6
+The Thrird Column : 1
+£1 was awarded for two shapes matching
+£1 was awarded for a special shape appearing
+£1 was awarded for a special shape appearing
+
+Game : 94
+The First Column : 4
+The Second Column : 6
+The Thrird Column : 6
+£1 was awarded for two shapes matching
+
+Game : 95
+The First Column : 5
+The Second Column : 5
+The Thrird Column : 2
+£1 was awarded for two shapes matching
+
+Game : 96
+The First Column : 2
+The Second Column : 8
+The Thrird Column : 1
+£1 was awarded for a special shape appearing
+
+Game : 97
+The First Column : 10
+The Second Column : 8
+The Thrird Column : 10
+£1 was awarded for two shapes matching
+
+Game : 98
+The First Column : 8
+The Second Column : 3
+The Thrird Column : 8
+£1 was awarded for two shapes matching
+
+Game : 99
+The First Column : 4
+The Second Column : 4
+The Thrird Column : 9
+£1 was awarded for two shapes matching
+
+Game : 100
+The First Column : 5
+The Second Column : 5
+The Thrird Column : 1
+£1 was awarded for two shapes matching
+£1 was awarded for a special shape appearing
+
+Game : 101
+The First Column : 5
+The Second Column : 9
+The Thrird Column : 4
+
+Game : 102
+The First Column : 1
+The Second Column : 9
+The Thrird Column : 6
+£1 was awarded for a special shape appearing
+
+Game : 103
+The First Column : 3
+The Second Column : 3
+The Thrird Column : 7
+£1 was awarded for two shapes matching
+
+Game : 104
+The First Column : 3
+The Second Column : 8
+The Thrird Column : 5
+
+Game : 105
+The First Column : 1
+The Second Column : 3
+The Thrird Column : 8
+£1 was awarded for a special shape appearing
+
+Game : 106
+The First Column : 1
+The Second Column : 1
+The Thrird Column : 8
+£1 was awarded for two shapes matching
+£1 was awarded for a special shape appearing
+£1 was awarded for a special shape appearing
+
+Game : 107
+The First Column : 3
+The Second Column : 1
+The Thrird Column : 1
+£1 was awarded for two shapes matching
+£1 was awarded for a special shape appearing
+£1 was awarded for a special shape appearing
+
+Game : 108
+The First Column : 9
+The Second Column : 5
+The Thrird Column : 9
+£1 was awarded for two shapes matching
+
+Game : 109
+The First Column : 2
+The Second Column : 2
+The Thrird Column : 3
+£1 was awarded for two shapes matching
+
+Game : 110
+The First Column : 8
+The Second Column : 1
+The Thrird Column : 3
+£1 was awarded for a special shape appearing
+
+Game : 111
+The First Column : 8
+The Second Column : 8
+The Thrird Column : 7
+£1 was awarded for two shapes matching
+
+Game : 112
+The First Column : 3
+The Second Column : 1
+The Thrird Column : 1
+£1 was awarded for two shapes matching
+£1 was awarded for a special shape appearing
+£1 was awarded for a special shape appearing
+
+Game : 113
+The First Column : 5
+The Second Column : 9
+The Thrird Column : 5
+£1 was awarded for two shapes matching
+
+Game : 114
+The First Column : 6
+The Second Column : 10
+The Thrird Column : 2
+
+Game : 115
+The First Column : 10
+The Second Column : 10
+The Thrird Column : 5
+£1 was awarded for two shapes matching
+
+Game : 116
+The First Column : 7
+The Second Column : 1
+The Thrird Column : 1
+£1 was awarded for two shapes matching
+£1 was awarded for a special shape appearing
+£1 was awarded for a special shape appearing
+
+Game : 117
+The First Column : 5
+The Second Column : 9
+The Thrird Column : 3
+
+Game : 118
+The First Column : 10
+The Second Column : 10
+The Thrird Column : 4
+£1 was awarded for two shapes matching
+
+Game : 119
+The First Column : 10
+The Second Column : 10
+The Thrird Column : 3
+£1 was awarded for two shapes matching
+
+Game : 120
+The First Column : 10
+The Second Column : 10
+The Thrird Column : 2
+£1 was awarded for two shapes matching
+
+Game : 121
+The First Column : 10
+The Second Column : 8
+The Thrird Column : 5
+
+Game : 122
+The First Column : 1
+The Second Column : 5
+The Thrird Column : 7
+£1 was awarded for a special shape appearing
+
+Game : 123
+The First Column : 10
+The Second Column : 8
+The Thrird Column : 8
+£1 was awarded for two shapes matching
+
+Game : 124
+The First Column : 1
+The Second Column : 10
+The Thrird Column : 2
+£1 was awarded for a special shape appearing
+
+Game : 125
+The First Column : 1
+The Second Column : 2
+The Thrird Column : 6
+£1 was awarded for a special shape appearing
+
+Game : 126
+The First Column : 8
+The Second Column : 4
+The Thrird Column : 6
+
+Game : 127
+The First Column : 1
+The Second Column : 4
+The Thrird Column : 1
+£1 was awarded for two shapes matching
+£1 was awarded for a special shape appearing
+£1 was awarded for a special shape appearing
+
+Game : 128
+The First Column : 1
+The Second Column : 5
+The Thrird Column : 2
+£1 was awarded for a special shape appearing
+
+Game : 129
+The First Column : 2
+The Second Column : 5
+The Thrird Column : 7
+
+Game : 130
+The First Column : 4
+The Second Column : 2
+The Thrird Column : 5
+
+Game : 131
+The First Column : 3
+The Second Column : 3
+The Thrird Column : 3
+£2 was awarded for three shapes matching
+£1 was awarded for two shapes matching
+
+Game : 132
+The First Column : 7
+The Second Column : 2
+The Thrird Column : 9
+
+Game : 133
+The First Column : 6
+The Second Column : 9
+The Thrird Column : 1
+£1 was awarded for a special shape appearing
+
+Game : 134
+The First Column : 8
+The Second Column : 4
+The Thrird Column : 4
+£1 was awarded for two shapes matching
+
+Game : 135
+The First Column : 7
+The Second Column : 1
+The Thrird Column : 1
+£1 was awarded for two shapes matching
+£1 was awarded for a special shape appearing
+£1 was awarded for a special shape appearing
+
+Game : 136
+The First Column : 8
+The Second Column : 6
+The Thrird Column : 2
+
+Game : 137
+The First Column : 2
+The Second Column : 10
+The Thrird Column : 1
+£1 was awarded for a special shape appearing
+
+Game : 138
+The First Column : 5
+The Second Column : 1
+The Thrird Column : 10
+£1 was awarded for a special shape appearing
+
+Game : 139
+The First Column : 8
+The Second Column : 8
+The Thrird Column : 5
+£1 was awarded for two shapes matching
+
+Game : 140
+The First Column : 9
+The Second Column : 9
+The Thrird Column : 6
+£1 was awarded for two shapes matching
+
+Game : 141
+The First Column : 9
+The Second Column : 8
+The Thrird Column : 8
+£1 was awarded for two shapes matching
+
+Game : 142
+The First Column : 9
+The Second Column : 10
+The Thrird Column : 10
+£1 was awarded for two shapes matching
+
+Game : 143
+The First Column : 10
+The Second Column : 10
+The Thrird Column : 2
+£1 was awarded for two shapes matching
+
+Game : 144
+The First Column : 1
+The Second Column : 10
+The Thrird Column : 3
+£1 was awarded for a special shape appearing
+
+Game : 145
+The First Column : 5
+The Second Column : 1
+The Thrird Column : 3
+£1 was awarded for a special shape appearing
+
+Game : 146
+The First Column : 8
+The Second Column : 6
+The Thrird Column : 6
+£1 was awarded for two shapes matching
+
+Game : 147
+The First Column : 1
+The Second Column : 9
+The Thrird Column : 9
+£1 was awarded for two shapes matching
+£1 was awarded for a special shape appearing
+
+Game : 148
+The First Column : 9
+The Second Column : 3
+The Thrird Column : 4
+
+Game : 149
+The First Column : 1
+The Second Column : 6
+The Thrird Column : 4
+£1 was awarded for a special shape appearing
+
+Game : 150
+The First Column : 7
+The Second Column : 1
+The Thrird Column : 8
+£1 was awarded for a special shape appearing
+
