@@ -8,17 +8,18 @@ public class Main { //Neaten the code up into separate classes and call the meth
 			public static Scanner inputScanner = new Scanner(System.in); //User input scanner
 			public static String inputtedRegister; //Users selected Register to do calculations on
 			public static String operationChosen = null; //Users chosen operation
-			public static Boolean input; //Users choice to Print(Compute Calculations) or to add another calculation
+			public static String input = null; //Users choice to Print(Compute Calculations) or to add another calculation
 			public static int valueInputted;
+			public static int tempInt;
 
 	public static void main(String[] args) {
-		while (input);{
+		do {
 		registerInput();
 		operationInput();
 		valueInput();
 		calculate();
 		userChoice();
-		}
+		} while (input != "Quit");
 		quit();
 		}
 	
@@ -60,8 +61,13 @@ public class Main { //Neaten the code up into separate classes and call the meth
 		private static void userChoice() {
 			try {
 			System.out.println("To add another calculation input a register.");
-			System.out.println("Or type 1 to terminate the application");
+			System.out.println("Or type Quit to terminate the application");
+			input = inputScanner.nextLine();
+			input = inputScanner.nextLine();
 			System.out.println(input);
+			if(input.contentEquals("Quit")) {
+				quit();
+			}
 			} catch (Exception e) {
 				System.err.println(e.getMessage());
 			}
@@ -71,7 +77,6 @@ public class Main { //Neaten the code up into separate classes and call the meth
 			try { //Asking the User to choose a register to do a calculation for
 				System.out.println("Please Input the first value (Register)");
 				inputtedRegister = inputScanner.nextLine();
-				System.out.println("The value of input is " + input);
 				System.out.println("Selected Register is " + inputtedRegister);	
 				} catch (Exception e) {
 					System.err.println(e.getMessage());
